@@ -1,23 +1,15 @@
-# kanban
+# Kanban tool with vue.js
+This project is a simple Kanban tool developed to explore the basics of Vue.js. It allows creating tasks and moving them between different statuses.
 
-## Project setup
+Dieses Projekt ist ein einfaches Kanban-Tool, das entwickelt wurde, um die Grundlagen von Vue.js zu erforschen. Es ermöglicht das Erstellen und Verschieben von Aufgaben zwischen verschiedenen Status.
+### Project setup // Abhängigkeiten istallieren
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start development mode // Entwicklungsmodus starten
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
