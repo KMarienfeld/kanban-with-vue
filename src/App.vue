@@ -73,7 +73,7 @@ export default {
       return this.tasks.filter((task) => task.status === status)
     },
     addTask(task) {
-      this.tasks.id = Math.random();
+      task.id = Math.random();
       this.tasks.push(task)
     },
     updateStatus(status) {
